@@ -1,1 +1,1 @@
-# EXPLORE-INDIA
+# explore-india-app
